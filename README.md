@@ -387,3 +387,4 @@ The scans/xml directory stores any XML output (e.g. from Nmap scans) separately 
 > The magical tool that made enumeration a piece of cake, just fire it up and watch the beauty of multi-threading spitting a ton of information that would have taken loads of commands to execute. I certainly believe that by just using AutoRecon in the OSCP exam, half of the effort would already be done. Strongly recommended!
 >
 >\- Arman (solved 4.5/5 exam hosts)
+I MADE SOME CHANGES TO THIS README.md FILE!
